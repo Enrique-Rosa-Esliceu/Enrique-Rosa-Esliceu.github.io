@@ -25,6 +25,6 @@ En este apartado vamos a...
 ###### Conclusion
 - Hecho este curso porque me ha inspirado,  Federico Garay que es uno de los profesores que explican excel muy bien, en su curso tiene de estudiantes 98.541 
 
-Para concluir esta presentación, podemos destacar que el curso de Excel ofrece una formación completa, diseñada para llevar a los estudiantes desde los conceptos básicos hasta el dominio de herramientas avanzadas y automatización. 
+- Para concluir esta presentación, podemos destacar que el curso de Excel ofrece una formación completa, diseñada para llevar a los estudiantes desde los conceptos básicos hasta el dominio de herramientas avanzadas y automatización. 
 
-A través de estos módulos, los estudiantes no solo aprenderán a manejar y analizar datos, sino que también desarrollarán habilidades que podrán aplicar en diferentes contextos profesionales.
+- A través de estos módulos, los estudiantes no solo aprenderán a manejar y analizar datos, sino que también desarrollarán habilidades que podrán aplicar en diferentes contextos profesionales.
